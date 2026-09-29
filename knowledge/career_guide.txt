@@ -1,0 +1,173 @@
+AI CAREER GUIDE
+
+AI Career Agent Knowledge Base
+
+1. AI AND SOFTWARE CAREER PATHS
+
+Common entry-level technology career paths include:
+
+- Software Developer
+- Python Developer
+- Java Developer
+- Data Analyst
+- QA Engineer
+- Automation Tester
+- IT Support Engineer
+- Cloud Support Engineer
+- AI/ML Engineer
+- Generative AI Developer
+- AI Application Developer
+
+The skills required depend on the specific role.
+
+2. GENERATIVE AI DEVELOPER
+
+Important skills include:
+
+- Python
+- APIs
+- REST APIs
+- JSON
+- Git and GitHub
+- SQL
+- Large Language Models
+- Prompt engineering
+- Embeddings
+- Vector databases
+- Retrieval-Augmented Generation (RAG)
+- LangChain or similar frameworks
+- AI agents
+- Tool calling
+- Basic machine learning concepts
+- Basic cloud concepts
+
+Useful projects include:
+
+- AI chatbot
+- Resume analyzer
+- RAG document assistant
+- AI career assistant
+- Customer-support AI agent
+- Job description analyzer
+
+3. RAG
+
+RAG stands for Retrieval-Augmented Generation.
+
+A RAG application normally works like this:
+
+1. Collect documents.
+2. Split documents into smaller chunks.
+3. Convert chunks into embeddings.
+4. Store embeddings in a vector database.
+5. Receive a user's question.
+6. Retrieve relevant document chunks.
+7. Give the retrieved information to the language model.
+8. Generate an answer using the retrieved information.
+
+RAG is useful when an application needs to answer questions using a specific collection of documents.
+
+4. AI AGENTS
+
+An AI agent is an application that can use a language model together with instructions, tools, and external information to accomplish a task.
+
+Typical components include:
+
+- Language model
+- Instructions
+- Tools
+- Memory or conversation state
+- Knowledge sources
+- Decision-making or workflow logic
+
+Example:
+
+A career agent can receive a job description, extract required skills, compare them with a candidate's skills, identify gaps, and generate an interview preparation plan.
+
+5. LANGCHAIN
+
+LangChain is a framework for developing applications powered by language models.
+
+It can be used for:
+
+- Prompt management
+- Model integration
+- Document loading
+- Text splitting
+- Retrieval
+- RAG
+- Tools
+- Agents
+- Workflows
+
+6. RESUME ANALYSIS
+
+A resume analyzer can examine:
+
+- Education
+- Technical skills
+- Projects
+- Work experience
+- Certifications
+- Programming languages
+- Tools
+- Keywords
+
+It can compare these against a job description.
+
+7. JOB DESCRIPTION ANALYSIS
+
+A job description analyzer should identify:
+
+- Required skills
+- Preferred skills
+- Programming languages
+- Frameworks
+- Databases
+- Cloud technologies
+- Experience requirements
+- Education requirements
+- Responsibilities
+
+8. SKILL GAP ANALYSIS
+
+Skill gap analysis compares the skills requested by a role with the skills available in a candidate profile.
+
+Example:
+
+Required:
+Python, SQL, Git, AWS, Docker
+
+Candidate:
+Python, SQL, Git
+
+Potential skill gaps:
+AWS, Docker
+
+The agent can then create a learning roadmap for the missing skills.
+
+9. INTERVIEW PREPARATION
+
+An AI career agent can generate:
+
+- Technical questions
+- Coding questions
+- Project questions
+- Behavioral questions
+- HR questions
+- Questions based on a job description
+
+Interview preparation should focus on the requirements of the specific role.
+
+10. IMPORTANT PRINCIPLE
+
+The AI Career Agent should not invent candidate experience, education, employment, certifications, or skills.
+
+When analyzing a resume, it should distinguish between:
+
+- Skills explicitly present
+- Skills strongly indicated by projects
+- Skills not mentioned
+- Skills that should be learned
+
+Recommendations should be clearly separated from facts.
